@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: /sitemap.xml
+Sitemap: https://ryberxy.github.io/jekyll_blog_html/sitemap.xml
