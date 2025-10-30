@@ -4,7 +4,7 @@
   <id>https://ryberxy.github.io/jekyll_blog_html/</id>
   <title>Blog Ryberxy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-30T19:38:23+08:00</updated>
+  <updated>2025-10-30T19:50:41+08:00</updated>
   <author>
     <name>Roberto Martín Rivera</name>
     <uri>https://ryberxy.github.io/jekyll_blog_html/</uri>
@@ -17,6 +17,30 @@
   <icon>/jekyll_blog_html/assets/img/favicons/favicon.ico</icon>
   <logo>/jekyll_blog_html/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Introducción a la implantación de aplicaciones web</title>
+    <link href="https://ryberxy.github.io/jekyll_blog_html/posts/Instalaci%C3%B3n-wireshark-gns3_2/" rel="alternate" type="text/html" title="Introducción a la implantación de aplicaciones web" />
+    <published>2025-10-14T00:00:00+08:00</published>
+  
+    <updated>2025-10-14T00:00:00+08:00</updated>
+  
+    <id>https://ryberxy.github.io/jekyll_blog_html/posts/Instalaci%C3%B3n-wireshark-gns3_2/</id>
+    <content type="text/html" src="https://ryberxy.github.io/jekyll_blog_html/posts/Instalaci%C3%B3n-wireshark-gns3_2/" />
+    <author>
+      <name>Roberto Martín Rivera</name>
+    </author>
+
+  
+    
+    <category term="Examen" />
+    
+  
+
+  <summary>Examen de git y jekyll. Roberto Martín Rivera</summary>
+
+  </entry>
 
   
   <entry>
